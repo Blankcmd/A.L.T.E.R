@@ -1,0 +1,30 @@
+{
+  "identity": {
+    "language": {
+      "value": "Telugu",
+      "updated": "2026-07-19"
+    },
+    "personal_assistant": {
+      "value": "personal AI assistant",
+      "updated": "2026-07-18"
+    },
+    "name": {
+      "value": "Karthik",
+      "updated": "2026-07-18"
+    }
+  },
+  "preferences": {},
+  "projects": {},
+  "relationships": {
+    "buddy": {
+      "value": "wants JARVIS to be a buddy",
+      "updated": "2026-07-18"
+    },
+    "marital_status": {
+      "value": "struggling with wife",
+      "updated": "2026-07-19"
+    }
+  },
+  "wishes": {},
+  "notes": {}
+}
